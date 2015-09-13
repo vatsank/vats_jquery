@@ -1,0 +1,32 @@
+body {
+    background-color:#bde0fa;
+}
+
+div {
+
+    text-align:center;
+    font-family:Arial;
+    font-size:1.2em;
+    color:#ff6a00;
+}
+
+h1{
+	
+	text-align: center;
+}
+
+h1, h2 {
+
+   
+    font-family:Arial;
+    font-size:1.2em;
+    color:#ff6a00;
+}
+
+.style1{
+	
+	font-family: cursive;
+
+	color: orange;
+	
+}
