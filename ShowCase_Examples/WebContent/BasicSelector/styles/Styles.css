@@ -23,10 +23,31 @@ h1, h2 {
     color:#ff6a00;
 }
 
-.style1{
-	
-	font-family: cursive;
 
-	color: orange;
-	
+
+.style4
+{
+margin: 30px 60px;
 }
+.style1
+{
+
+background-color:#FFD700;
+height:500px;
+width:300px;
+float:left;
+  
+
+}
+.style3
+{
+float:left;
+font-family: cursive;
+font-size: 1.2em;
+
+}
+ .style2 {
+        background-color:red;
+        
+            }
+
